@@ -1,6 +1,2 @@
-# Yamal
-Kukulu
-# kalaka
-#rimose
-@@ baikm
+sdip lotmi
 

@@ -20,4 +20,5 @@ bash jjgh
 cd llm
 ls sama aja-aku nggak tau
 button=("1")
+button:"1"
 

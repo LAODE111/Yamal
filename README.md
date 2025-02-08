@@ -1,4 +1,2 @@
-sdip lotmi
-iy
-jiglot
+color= "blue"
 

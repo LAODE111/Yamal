@@ -21,6 +21,7 @@ cd llm
 ls sama aja-aku nggak tau
 button=("1")
 button:"1"
-button: #open.
+button:# open.
 html:#.
+open:#bash and python.
 
